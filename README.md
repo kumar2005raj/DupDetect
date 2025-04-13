@@ -3,7 +3,7 @@ The Data Duplication Alert System (DDAS) is a full-stack project built to proact
 
 This system leverages modern web technologies and AI-driven logic to monitor download requests in real time, raising alerts for potential duplicates and helping administrators maintain clean, organized, and reliable datasets. Whether it's user-generated content, file downloads, or transactional records — DDAS ensures one-click = one copy.
 
-## Demo Link :- 
+## Demo Link :- https://kumar2005raj.github.io/DupDetect/
 
 # Project Title:- # Data Duplicate Alert System
 
