@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href=style.css>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DDAS - Data Download Duplication Alert System</title>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Data Download Duplication Alert System</h2>
+
+        <label>User ID:</label>
+        <input type="text" id="userId" placeholder="Enter User ID"><br>
+
+        <label>Email:</label>
+        <input type="email" id="userEmail" placeholder="Enter your Email"><br>
+
+        <label>File Name:</label>
+        <input type="text" id="fileName" placeholder="Enter File Name" oninput="suggestFileName()"><br>
+        <p class="ai-suggestion" id="suggestion"></p>
+
+        <button onclick="downloadFile()">Download File</button>
+
+        <p id="result"></p>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

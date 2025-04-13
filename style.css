@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+.container {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    width: 350px;
+    margin: auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+input, button {
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+input { background: rgba(255, 255, 255, 0.8); }
+button {
+    background: #ff5c5c;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+button:hover { background: #ff1e1e; }
+.ai-suggestion {
+    font-size: 14px;
+    color: #fdd835;
+}
