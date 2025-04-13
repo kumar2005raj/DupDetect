@@ -19,12 +19,14 @@ This system leverages modern web technologies and AI-driven logic to monitor dow
 - Tools:- Visual Studio Code (MicroSoft)
 
 ## 📸 Screenshots
+
+### Input takes: Here type your E-mail and submit your text file
 ![Screenshot 2025-04-13 233220](https://github.com/user-attachments/assets/03c27345-b9f5-485b-bd2e-4c593fcdab4c)
+
+#### when you submit it, you will get a notification in your E-mail
 ![Screenshot 2025-04-13 233147](https://github.com/user-attachments/assets/0aa710f9-06ac-45eb-a5d5-89e0f61aad98)
+##### Ouput show Both
 ![Screenshot 2025-04-13 233405](https://github.com/user-attachments/assets/a3a5cc7f-0cf4-47f6-90eb-4dd60cff511b)
-
-
-
 
 
 
